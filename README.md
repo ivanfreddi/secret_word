@@ -8,5 +8,8 @@
 - JavaScript
 - CSS
 
+## 📌 Links 
+ - [Deploy](https://secret-word-ivanfreddi.vercel.app/)
+
 ## 📊 Status do projeto
 ✅ Concluído
